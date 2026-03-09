@@ -1,5 +1,3 @@
-🧿 SAT0RU – Jujutsu Kaisen Cursed Technique Visualizer
-
 <div align="center">
 
 https://github.com/user-attachments/assets/8ad2b871-02c0-4b97-95f3-34682e745be0
